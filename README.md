@@ -5,6 +5,11 @@ HackSelect is a full-stack **prototype/academic portfolio project** for demonstr
 ## Live Demo
 
 **Website:** http://parthpal3305.gt.tc
+### 📱 Scan to Open HackSelect
+
+Scan the QR code below to access the live deployment directly from your phone.
+
+![HackSelect Live Demo QR Code](HackSelect-QR-Code.png)
 
 > The hosted site is a demonstration deployment. Please use test/demo information only.
 
